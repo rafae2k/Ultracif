@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name UltraCif)(type KiCad)(uri "/Users/cadupalmieri/Documents/Projetos Kicad/UltraCif")(options "")(descr ""))
+  (lib (name "Projetos Kicad")(type KiCad)(uri "/Users/cadupalmieri/Documents/Projetos Kicad")(options "")(descr ""))
+  (lib (name franzininho-diy-board-master)(type KiCad)(uri /Users/cadupalmieri/Downloads/franzininho-diy-board-master)(options "")(descr ""))
+  (lib (name "Franzininho - RV1 - KiCAD")(type KiCad)(uri "/Users/cadupalmieri/Downloads/franzininho-diy-board-master/hardware/Franzininho - RV1 - KiCAD")(options "")(descr ""))
+  (lib (name Graphics)(type KiCad)(uri "/Users/cadupalmieri/Downloads/franzininho-diy-board-master 3/Franzininho - V2RV1 - KICAD/Graphics.pretty")(options "")(descr ""))
+)
